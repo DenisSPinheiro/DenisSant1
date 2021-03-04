@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 - My name´s Denis 
+
+:books: - I´m student of Analysis and systems development at Universidade Nove de Julho - UNINOVE
+
+:bulb: - Learning about programming and technologies 
+
 
 <!--
 **DenisSant1/DenisSant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
