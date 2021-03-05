@@ -2,7 +2,7 @@
 
 :books: - I´m student of Analysis and systems development at Universidade Nove de Julho - UNINOVE
 
-:bulb: - Learning about programming and technologies 
+:bulb: - Learning about programming and technologies :D
 
 
 <!--
